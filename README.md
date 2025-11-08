@@ -32,6 +32,7 @@
     php artisan migrate --seed
 
 6. Start server:
+    ```bash
     php artisan serve
 
 
